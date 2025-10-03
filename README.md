@@ -19,7 +19,14 @@ Analyzed average flat prices in different UK regions (July 2017 – July 2018) a
 
 **Highlights**  
 - Combined **exploratory data analysis** with **formal hypothesis testing**.  
-- Explained results in the context of real-world socioeconomic data.  
+- Explained results in the context of real-world socioeconomic data.
+
+<p align="center">
+  <img src="images/permutation_test_output.png" alt="Permutation Test: G Statistic Distribution" width="600"/>
+  <br>
+  <em>Figure 1: Permutation Test – G Statistic Distribution</em>
+</p>
+
 
 ---
 
@@ -39,7 +46,14 @@ Reproduced and extended a classic statistical case study (Matthews, 2000) on the
 
 **Highlights**  
 - Showed the importance of distinguishing **correlation vs. causation**.  
-- Applied **bootstrap methods** to evaluate model robustness.  
+- Applied **bootstrap methods** to evaluate model robustness.
+
+<p align="center">
+  <img src="images/bootstrap_distribution_rmse_differences.png" alt="Bootstrap Distribution of RMSE Differences" width="600"/>
+  <br>
+  <em>Figure 2: Bootstrap Distribution of RMSE Differences</em>
+</p>
+
 
 ---
 
@@ -61,7 +75,23 @@ Analyzed Texas bridge infrastructure data to predict current bridge condition ba
 
 **Highlights**  
 - Combined **feature engineering, EDA, and regression analysis**.  
-- Provided actionable insights for infrastructure management (e.g., traffic and age effects).  
+- Provided actionable insights for infrastructure management (e.g., traffic and age effects).
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="images/Correlation_Matrix_Heatmap.png" alt="Correlation Matrix Heatmap" width="400"/></td>
+    <td><img src="images/The_Scatter_Matrix.png" alt="The Scatter Matrix" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Figure 3: Correlation Matrix Heatmap</strong></td>
+    <td align="center"><strong>Figure 4: The Scatter Matrix</strong></td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
@@ -80,7 +110,29 @@ Analyzed 2021 census data at the LSOA (Lower Layer Super Output Area) level to e
 
 **Highlights**  
 - Worked with **large-scale demographic datasets**.  
-- Explained regional demographic differences in a **policy-relevant way**.  
+- Explained regional demographic differences in a **policy-relevant way**.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="images/Distributions_LSOA_Statistics.png" alt="Distributions LSOA Statistic" width="400"/></td>
+    <td><img src="images/Distribution_of_Median_Ages_by_Area_Type.png" alt="Distribution of Median ages by Area Type" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Figure 5: Distributions LSOA Statistic</strong></td>
+    <td align="center"><strong>Figure 6: Distribution of Median ages by Area Type</strong></td>
+  </tr>
+</table>
+
+</div>
+
+<p align="center">
+  <img src="images/LSOA_Classification_Based_On_Age_Proportions.png" alt="LSOA Classification Based On Age Proportions" width="600"/>
+  <br>
+  <em>Figure 7: LSOA Classification Based On Age Proportions</em>
+</p>
+
 
 ---
 
